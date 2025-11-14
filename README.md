@@ -5,13 +5,15 @@ This project was implemented during my full-Stack internship (backend part) as p
 
 🚀 Features
 🔹 1. ASP.NET Core Web API
-
+<br>
 Utilizes [ApiController] and routing attributes.
+<br>
 Organized into Controller → Service → Models layers.
+<br>
 Clean separation of concerns.
-
+<br>
 🔹 2. Strong External API Integration
-
+<br>
 Makes secure POST requests to Amazon Geocoding API.
 Sends custom headers:
 x-api-key
