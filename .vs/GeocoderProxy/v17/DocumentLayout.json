@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\GeocoderProxy\\GeocoderProxy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5659D2ED-3F6E-4BC1-ADCC-DB51F063230E}|GeocoderProxy.csproj|c:\\projects\\geocoderproxy\\geocoderproxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5659D2ED-3F6E-4BC1-ADCC-DB51F063230E}|GeocoderProxy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5659D2ED-3F6E-4BC1-ADCC-DB51F063230E}|GeocoderProxy.csproj|c:\\projects\\geocoderproxy\\geocoderproxy\\services\\geocodersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5659D2ED-3F6E-4BC1-ADCC-DB51F063230E}|GeocoderProxy.csproj|solutionrelative:services\\geocodersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5659D2ED-3F6E-4BC1-ADCC-DB51F063230E}|GeocoderProxy.csproj|c:\\projects\\geocoderproxy\\geocoderproxy\\services\\geocoderclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5659D2ED-3F6E-4BC1-ADCC-DB51F063230E}|GeocoderProxy.csproj|solutionrelative:services\\geocoderclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5659D2ED-3F6E-4BC1-ADCC-DB51F063230E}|GeocoderProxy.csproj|c:\\projects\\geocoderproxy\\geocoderproxy\\models\\geocoderesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5659D2ED-3F6E-4BC1-ADCC-DB51F063230E}|GeocoderProxy.csproj|solutionrelative:models\\geocoderesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5659D2ED-3F6E-4BC1-ADCC-DB51F063230E}|GeocoderProxy.csproj|c:\\projects\\geocoderproxy\\geocoderproxy\\models\\geocoderequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5659D2ED-3F6E-4BC1-ADCC-DB51F063230E}|GeocoderProxy.csproj|solutionrelative:models\\geocoderequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5659D2ED-3F6E-4BC1-ADCC-DB51F063230E}|GeocoderProxy.csproj|c:\\projects\\geocoderproxy\\geocoderproxy\\controllers\\geocodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5659D2ED-3F6E-4BC1-ADCC-DB51F063230E}|GeocoderProxy.csproj|solutionrelative:controllers\\geocodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5659D2ED-3F6E-4BC1-ADCC-DB51F063230E}|GeocoderProxy.csproj|c:\\projects\\geocoderproxy\\geocoderproxy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5659D2ED-3F6E-4BC1-ADCC-DB51F063230E}|GeocoderProxy.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5659D2ED-3F6E-4BC1-ADCC-DB51F063230E}|GeocoderProxy.csproj|c:\\projects\\geocoderproxy\\geocoderproxy\\geocoderproxy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5659D2ED-3F6E-4BC1-ADCC-DB51F063230E}|GeocoderProxy.csproj|solutionrelative:geocoderproxy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeocoderSettings.cs",
+              "DocumentMoniker": "C:\\Projects\\GeocoderProxy\\GeocoderProxy\\Services\\GeocoderSettings.cs",
+              "RelativeDocumentMoniker": "Services\\GeocoderSettings.cs",
+              "ToolTip": "C:\\Projects\\GeocoderProxy\\GeocoderProxy\\Services\\GeocoderSettings.cs",
+              "RelativeToolTip": "Services\\GeocoderSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T17:22:00.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\GeocoderProxy\\GeocoderProxy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projects\\GeocoderProxy\\GeocoderProxy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T17:27:46.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GeocoderClient.cs",
+              "DocumentMoniker": "C:\\Projects\\GeocoderProxy\\GeocoderProxy\\Services\\GeocoderClient.cs",
+              "RelativeDocumentMoniker": "Services\\GeocoderClient.cs",
+              "ToolTip": "C:\\Projects\\GeocoderProxy\\GeocoderProxy\\Services\\GeocoderClient.cs",
+              "RelativeToolTip": "Services\\GeocoderClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T17:14:23.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeocodeResponse.cs",
+              "DocumentMoniker": "C:\\Projects\\GeocoderProxy\\GeocoderProxy\\Models\\GeocodeResponse.cs",
+              "RelativeDocumentMoniker": "Models\\GeocodeResponse.cs",
+              "ToolTip": "C:\\Projects\\GeocoderProxy\\GeocoderProxy\\Models\\GeocodeResponse.cs",
+              "RelativeToolTip": "Models\\GeocodeResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:23:44.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GeocodeRequest.cs",
+              "DocumentMoniker": "C:\\Projects\\GeocoderProxy\\GeocoderProxy\\Models\\GeocodeRequest.cs",
+              "RelativeDocumentMoniker": "Models\\GeocodeRequest.cs",
+              "ToolTip": "C:\\Projects\\GeocoderProxy\\GeocoderProxy\\Models\\GeocodeRequest.cs",
+              "RelativeToolTip": "Models\\GeocodeRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:23:43.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GeocodeController.cs",
+              "DocumentMoniker": "C:\\Projects\\GeocoderProxy\\GeocoderProxy\\Controllers\\GeocodeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GeocodeController.cs",
+              "ToolTip": "C:\\Projects\\GeocoderProxy\\GeocoderProxy\\Controllers\\GeocodeController.cs",
+              "RelativeToolTip": "Controllers\\GeocodeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T17:41:15.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\GeocoderProxy\\GeocoderProxy\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Projects\\GeocoderProxy\\GeocoderProxy\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-08T17:23:12.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GeocoderProxy.csproj",
+              "DocumentMoniker": "C:\\Projects\\GeocoderProxy\\GeocoderProxy\\GeocoderProxy.csproj",
+              "RelativeDocumentMoniker": "GeocoderProxy.csproj",
+              "ToolTip": "C:\\Projects\\GeocoderProxy\\GeocoderProxy\\GeocoderProxy.csproj",
+              "RelativeToolTip": "GeocoderProxy.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-08T17:12:59.507Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
